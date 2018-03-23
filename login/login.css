@@ -1,0 +1,23 @@
+.form-area
+{
+    background-image: url('11.jpg');
+	padding: 10px 40px 60px;
+	margin: 150px 150px 60px;
+	border: 1px solid GREY;
+}
+body{
+	background-image: url('98542.jpg');
+}
+h3
+{
+	margin-bottom: 25px; 
+	text-align: center;
+	color:  #66ccff;
+}
+input:focus
+{
+	background: #f7e6ff;
+}
+input:focus::-webkit-input-placeholder {
+    color:  #7a00b3;
+}
